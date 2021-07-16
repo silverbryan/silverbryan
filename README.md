@@ -1,5 +1,3 @@
-<h2> Hi, I'm Silverbryan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<br>
-<br>
+# 👋 Hello!
 
-![Silverbryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Silverbryan&show_icons=true&include_all_commits=true)
+🌐 My Personal Website](https://silverbryan.com.ar) · [ℹ️ About](https://silverbryan.com.ar/#about) · [💻 Projects](https://silverbryan.com.ar/#proyects) · [📇 Contact](https://silverbryan.com.ar/#contact) · [👔 LinkedIn](https://www.linkedin.com/in/bryan-plata/)
